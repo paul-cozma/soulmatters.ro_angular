@@ -7,4 +7,16 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'soulmatters.ro';
+  
+  constructor() { }
+
+  ngOnInit(): void {
+  // subscribe to router events
+  }
+
+  // onRouteChange(): void {
+  //   const transition = document.createDocumentTransition();
+  //   transition.start(() => updateTheDOMSomehow(data));
+  // }
+
 }

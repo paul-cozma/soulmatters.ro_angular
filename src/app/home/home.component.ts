@@ -1,4 +1,9 @@
 import { Component, OnInit } from '@angular/core';
+// import card component from angular material
+// import list of posts from content folder
+import posts from '../../assets/content/data/page-1.json';
+import config from '../../assets/content/config.json';
+import {ActivatedRoute, Router} from '@angular/router';
 
 @Component({
   selector: 'app-home',
@@ -6,9 +11,32 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
+  posts = posts;
+  pageEvent: any;
+  config = config;
+  pageNumber = 0;
+  constructor(private route: Router, private router: ActivatedRoute ) {
+    const page = this.router.snapshot.queryParamMap.get('page');
+    console.log(page)
+    if (page) {
+      this.pageNumber = parseInt(page)
+      console.log('i change page number')
+      this.changePage({pageIndex: Number(page)}, true)
+    }
+   }
+  
+  async changePage (e: any, firstLoad: boolean = false): Promise<void> {
+    if(!firstLoad) {
+      this.pageNumber = e.pageIndex;
+    }
+    console.log(e)
 
-  constructor() { }
-
+    console.count('how many times')
+    const data = await fetch(`../../assets/content/data/page-${this.pageNumber}.json`);
+    this.posts  = await data.json();
+    // set page number as query param
+    this.route.navigate([''], { queryParams: { page: this.pageNumber } });
+  }
   ngOnInit(): void {
   }
 

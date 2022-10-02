@@ -1,0 +1,27 @@
+img {
+    width: 100%;
+    height: 400px;
+    max-width: 1200px;
+    object-fit: cover;
+    margin: 40px auto;
+    display: block;
+
+}
+.wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    font-size: 1.1rem;
+    line-height: 31px;
+    color: #212121;
+}
+h1 {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: "Yeseva One", cursive;
+    margin-bottom: 4rem;
+}

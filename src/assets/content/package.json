@@ -1,0 +1,18 @@
+{
+  "name": "content",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "markdownToJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "markdown-json": "^1.6.1",
+    "turndown": "^7.1.1"
+  }
+}
