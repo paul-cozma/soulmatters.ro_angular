@@ -14,7 +14,7 @@ export class HomeComponent implements OnInit {
   posts = posts;
   pageEvent: any;
   config = config;
-  pageNumber = 0;
+  pageNumber = 1;
   constructor(private route: Router, private router: ActivatedRoute ) {
     const page = this.router.snapshot.queryParamMap.get('page');
     console.log(page)

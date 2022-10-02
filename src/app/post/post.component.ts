@@ -15,6 +15,11 @@ export class PostComponent implements OnInit {
   constructor(private route: ActivatedRoute) { 
 
   }
+  formatDate(date: string): string {
+    const d = new Date(date);
+    // return in format month as word  day in number  YYYY to locale
+    return d.toLocaleDateString('ro-RO', {month: 'long', day: 'numeric', year: 'numeric'});
+  }
 
   async ngOnInit(): Promise<void> {
     this.slug = this.route.snapshot.paramMap.get('slug') ?? '';

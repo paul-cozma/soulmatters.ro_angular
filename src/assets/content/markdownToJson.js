@@ -16,6 +16,15 @@ const content = fm(file)
     article: content.body
   }
 }
+const convertPages = async () => {
+  const posts = await readdirSync('./pages')
+  for ( let post of posts) {
+    const file = await readFileSync(`./pages/${post}`, 'utf8')
+    const json = await postObject(file)
+    await writeFileSync(`./data/pages/${post.replace('.md', '')}.json`, JSON.stringify(json))
+  }
+}
+
 const makeWholeList = async () => {
   const posts = await readdirSync('./posts')
   const postList = []
@@ -23,6 +32,7 @@ const makeWholeList = async () => {
     const file = await readFileSync(`./posts/${post}`, 'utf8')
     postList.push(postObject(file))
   }
+  await convertPages();
   // add previuos and next article to each article
   const sortedPosts = postList.sort(sortByDate)
   for(let i = 0; i < sortedPosts.length; i++) {

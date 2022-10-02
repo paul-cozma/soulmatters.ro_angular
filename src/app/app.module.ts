@@ -11,13 +11,17 @@ import { MatPaginatorIntl, MatPaginatorModule } from '@angular/material/paginato
 import { MarkdownModule } from 'ngx-markdown';
 import { CustomPaginator } from './home/CustomPaginatorConfiguration';
 import { SiteHeaderComponent } from './site-header/site-header.component';
-
+import { MatToolbarModule } from '@angular/material/toolbar';
+import { TermsComponent } from './terms/terms.component';
+import { FooterComponent } from './footer/footer.component';
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     PostComponent,
     SiteHeaderComponent,
+    TermsComponent,
+    FooterComponent,
     
   ],
   imports: [
@@ -26,7 +30,8 @@ import { SiteHeaderComponent } from './site-header/site-header.component';
     BrowserAnimationsModule,
     MatCardModule,
     MarkdownModule.forRoot(),
-    MatPaginatorModule
+    MatPaginatorModule,
+    MatToolbarModule
 
   ],
   providers: [

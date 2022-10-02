@@ -14,9 +14,9 @@ export class AppComponent {
   // subscribe to router events
   }
 
-  // onRouteChange(): void {
-  //   const transition = document.createDocumentTransition();
-  //   transition.start(() => updateTheDOMSomehow(data));
-  // }
+  onRouteChange(): void {
+    // scroll to top
+    
+  }
 
 }

@@ -1,6 +1,6 @@
 <img src="assets/content/images/{{post.slug}}.jpeg" alt="{{post.title}}">
 <h1>{{post.title}}</h1>
-
+<div class="date">{{formatDate(post.date)}}</div>
 <div class="wrapper">
     <div  [innerHTML]="post.article  | markdown">
     </div>
