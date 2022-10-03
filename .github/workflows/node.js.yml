@@ -34,7 +34,6 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
         FOLDER: public
-        CLEAN: true
         BRANCH: master
 
   
