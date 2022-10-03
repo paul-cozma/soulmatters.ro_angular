@@ -14,6 +14,9 @@ import { SiteHeaderComponent } from './site-header/site-header.component';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { TermsComponent } from './terms/terms.component';
 import { FooterComponent } from './footer/footer.component';
+import { NgxGoogleAnalyticsModule, NgxGoogleAnalyticsRouterModule } from 'ngx-google-analytics';
+import { environment } from '../environments/environment';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -31,7 +34,9 @@ import { FooterComponent } from './footer/footer.component';
     MatCardModule,
     MarkdownModule.forRoot(),
     MatPaginatorModule,
-    MatToolbarModule
+    MatToolbarModule,
+    NgxGoogleAnalyticsModule.forRoot(environment.ga),
+    NgxGoogleAnalyticsRouterModule
 
   ],
   providers: [
