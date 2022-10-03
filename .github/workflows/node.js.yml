@@ -35,5 +35,6 @@ jobs:
       with:
         FOLDER: public
         CLEAN: true
+        BRANCH: master
 
   
