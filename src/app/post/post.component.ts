@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {ActivatedRoute} from '@angular/router';
+import { Meta } from '@angular/platform-browser';  
 
 @Component({
   selector: 'app-post',
@@ -12,7 +13,7 @@ export class PostComponent implements OnInit {
   // display the post
   slug = ''
   post = {} as Post;
-  constructor(private route: ActivatedRoute) { 
+  constructor(private route: ActivatedRoute, private meta: Meta) { 
 
   }
   formatDate(date: string): string {
@@ -26,6 +27,20 @@ export class PostComponent implements OnInit {
     if(this.slug !== '') {
      this.post = await import(`../../assets/content/data/article/${this.slug}.json`);
     }
+    this.addMetaTags(this.post.excerpt, this.post.title, this.post.slug);
+  }
+  addMetaTags(description: string, title: string, slug: string) {
+    // add meta tags
+    this.meta.addTags([
+      { name: 'description', content: description },
+      { name: 'og:title', content: title },
+      { name: 'og:description', content: description },
+      { name: 'og:image', content: `assets/content/images/${slug}.jpeg` },
+      { name: 'twitter:title', content: title },
+      { name: 'twitter:description', content: description },
+      { name: 'twitter:image', content: `assets/content/images/${slug}.jpeg` },
+
+    ]); 
   }
 
 }
@@ -36,4 +51,5 @@ interface Post {
   slug: string;
   date: string;
   article: string;
+  excerpt: string;
 }

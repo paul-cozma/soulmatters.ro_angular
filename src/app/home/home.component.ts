@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
 import posts from '../../assets/content/data/page-1.json';
 import config from '../../assets/content/config.json';
 import {ActivatedRoute, Router} from '@angular/router';
-
+import { Meta } from '@angular/platform-browser';
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
@@ -15,7 +15,7 @@ export class HomeComponent implements OnInit {
   pageEvent: any;
   config = config;
   pageNumber = 1;
-  constructor(private route: Router, private router: ActivatedRoute ) {
+  constructor(private route: Router, private router: ActivatedRoute, private meta: Meta ) {
     const page = this.router.snapshot.queryParamMap.get('page');
     console.log(page)
     if (page) {
@@ -23,6 +23,11 @@ export class HomeComponent implements OnInit {
       console.log('i change page number')
       this.changePage({pageIndex: Number(page)}, true)
     }
+    this.meta.addTags([
+      { name: 'description', content: 'Un blog personal. Soulmatters.ro' },
+      { name: 'og:title', content: 'Soulmatters.ro' },
+      { name: 'og:description', content: 'Un blog personal. Soulmatters.ro' }
+    ]);
    }
   
   async changePage (e: any, firstLoad: boolean = false): Promise<void> {
