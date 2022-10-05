@@ -1,0 +1,18 @@
+---
+author: Andra Cozma
+date: 2016-01-31T18:12:50
+slug: frigulet
+status: publish
+title: Friguleț
+excerpt: "Cu ce aduni în săculețul tău ponosit, te duci din ușă în ușă și bați. Bați apăsat și rar. Fricos  "
+---
+Cu ce aduni în săculețul tău ponosit, te duci din ușă în ușă și bați. Bați apăsat și rar. Fricos și nesigur că-ți va răspunde cineva. Tu totuși încerci. N-ai de ales.
+
+Anotimpurile trec unele după altele și ciclic așa cum e totul, ar trebui să simți frig, friguleț-călduț, căldură, răcoarea arămie și iar friguleț. Dar niciodată doar unul. La tine anul e doar polar. Frig cu nori și frig cu o dâră de soare dar cu totul, tot înghețat ești.
+
+Ușile ți se trântesc în urmă și pleci mai departe. Îți aduni pielea de pe mâinile degerate și-ți mai taci mintea, ce-a lăsat deja pe corp, o urmă de ros. Dai cu alcool! Să dezinfectezi doar. Nu-ți place să-l lași în tine liber. Tu n-ai fost cu aburii.
+
+Vei mai bate cărări, vei mai duce și aduce săculețul de la o poartă la alta. Ușile te primesc cu fața iar restul, cu spatele ei. Poți observa ambele fețe ale ușii. Ochiul ți-e format demult.
+
+În toată această călătorie, cei dragi te au în gând, singurătatea e doar o iluzie iar frigul o să treacă. Totul trece!
+    

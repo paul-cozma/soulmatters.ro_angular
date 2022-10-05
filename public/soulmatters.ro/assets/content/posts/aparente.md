@@ -1,0 +1,26 @@
+---
+author: Andra Cozma
+date: 2017-09-09T18:12:50
+slug: aparente
+status: publish
+title: Aparențe
+excerpt: "Observ privirea și expresia unui chip ce trădează o grimasă de javră. Orice încercare de a vă tencui frumos măștile  "
+---
+Observ privirea și expresia unui chip ce trădează o grimasă de javră. Orice încercare de a vă tencui frumos măștile și de a vă mentola gurile înainte de a vorbi, eșuează. Natura umană folosește multe expresii pentru a obține ce vrea și multe mutre pentru a respinge ce nu-i convine.
+
+Evoluția ne marchează pe toți. Ne regăsim câte un pic în fiecare urmaș de-al nostru. Având în vedere toate acestea, cum evoluția a avut loc la tine, nu m-a ocolit nici pe mine. Văd, simt, descifrez chipuri și gesturi pentru a înțelege sensul cuvintelor și al faptelor.
+
+Despre ce vorbim și de cine ne ascundem?
+
+Singurul lucru ce ne desparte este dorința de a fi altfel. Tu să rămâi așa cum ești și-ți place, eu să mă lupt pentru a deveni, cu eforturi și sacrificii.
+
+Nu judeca un om pentru că-i mai ciudat, nu-l „înțepa” cu vorbe grele. Nu mai râde de el împreună cu „tovarășii tăi” sau cu „pretinile tale” pentru că nu știi multe. Nu știi cum te vezi tu din afară. Ai să trăiești până mori cu dilema asta.
+
+Astfel, încerci să-ți ajustezi mereu aparențele. Le tencuiești cu grijă, pentru o fațadă mai bună. Totuși, chipul tău suferă o anume distorsiune, are o anume expresie. Tu nu apuci să realizezi acest lucru, nu-l poți îndrepta la timp și se observă.
+
+Tu, în particular, nu ești decât un câine fricos care s-a pierdut de haită. În absența haitei ce-ți susține tupeul, nu ești decât un om foarte singur într-o mare de oameni și fericit doar în aparențe.
+
+De asemenea, ai grijă! Ținta batjocurii tale îți poate semna mai târziu statul de plată pentru un post de pândar sau te poate duce unde nu o să mai afle nimeni ceva de tine.
+
+Ai grijă cum te porți cu oamenii din jurul tău!
+    

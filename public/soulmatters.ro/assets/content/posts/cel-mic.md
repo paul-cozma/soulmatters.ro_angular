@@ -1,0 +1,30 @@
+---
+author: Andra Cozma
+date: 2017-03-11T18:12:50
+slug: cel-mic
+status: publish
+title: Cel mic
+excerpt: "Ai viața înainte, atât cât e din ea și tot înainte ar trebui să-i tragi și pe alții. Dar nu,  "
+---
+Ai viața înainte, atât cât e din ea și tot înainte ar trebui să-i tragi și pe alții. Dar nu, tu îi tragi înapoi, te joci un pic cu ei, îi mărunțești, apoi îi dai la câini. Nici nu ești conștient de răul făcut sau mai grav, nu-ți pasă.
+
+Știi că despre tine vorbesc, măi arogantule, atotștiutorule, care te-ai adunat cu cei de teapa ta să râzi de alții și să vorbești orice îți vine din gură, înapoi.
+
+Stai și treci tot ce vezi prin filtrele așa-ziselor​ gânduri, care-s stăpânite de niște păduchi. Păduchi prioritari creierului care ți-au marcat copilăria. Păduchi cu care arunci la rândul tău, spre cel pe care-l vezi mai mic și mai slab decât tine. Ăl mai mic, mai puțin puternic decât tine, se va face mare și îți va plăti cu aceeași monedă.
+
+Ești ca o tufă fără trandafiri. Trandafirii ți i-ai tăiat singur demult sau au avut grijă ai tăi. Probabil și tu ai fost mai slab decât alții și au făcut din tine ce au vrut și ți-au înșelat așteptările. De atunci, la orice e frumos lumii, tu dai spini oamenilor, că numai din ăștia mai ai.
+
+Orice lucru rămas nerezolvat, se întoarce într-o formă sau alta. Poate când îți este viața mai dragă și atunci când ai crezut că poți spune și face orice. Drumurile bălegate de tine, se întorc cu josul în sus și te va ploua cu ce ai lăsat pe ele.
+
+Felul tău de a fi, îți dă anumite avantaje, iar cel mai rău este cand îți găsești nașul. Ține minte: nu ești cel mai puternic om din lume, nu le știi pe toate și nu poți face orice fără urmări. Nu intra în iluzia asta, cu toții plătim, nu ești numai tu in lume.
+
+Ai grijă cum pășești. Cei slabi peste care ai călcat, cei cumsecade de care ți-ai bătut joc și cei care au vrut să te ajute și i-ai „înțepat”, vor avea cu toții o moneda pentru tine.
+
+După tot ce a fost, mă uit cu milă la tine. Nu e acea milă, care să te umilească, ci milă cu adevărat.
+
+Orice om care îmi face rău, îmi expune, fără să realizeze, informații din casa și viața lui. Dacă lucrurile nu merg bine acolo, acesta nu poate fi bun nici cu ceilalți. Nu vreau să generalizez, dar până acum, așa au stat lucrurile.
+
+Dacă ești destul de copt la minte să realizezi de ce, vei simți milă și vei ierta. Dacă tu la rândul tău ai făcut rău, încă ai timp. Nu-i lăsa pe alții să îți afle detalii din viață după modul în care te comporți cu ei. Asta vă spun vouă, asta-mi spun și mie, pentru că suntem oameni și de multe ori uităm.
+
+Trăim totul la turație maximă, pe o șosea care poate duce către un loc liniștit, etern… mai devreme decât este cazul, suflete dragi.
+    
