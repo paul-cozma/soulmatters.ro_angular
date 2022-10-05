@@ -1,0 +1,32 @@
+---
+author: Andra Cozma
+date: 2019-01-11T18:12:50
+slug: femeia-la-30-de-ani
+status: publish
+title: Femeia la 30+ de ani
+excerpt: "Femeia la 30+ ar trebui să accepte câteva lucruri. Fie că s-a realizat în regulile actualei societăți, ale „firescului”, fie  "
+---
+Femeia la 30+ ar trebui să accepte câteva lucruri. Fie că s-a realizat în regulile actualei societăți, ale „firescului”, fie că preferă să fie liberă de responsabilități. Ea trebuie să-și pregătească mereu carnețelul pentru noi notițe. Astfel, își va evita o pieire prematură. La figurat, la propriu, depinde.
+
+Ea ar trebui să te ignore și să se regăsească doar în ce-i face plăcere, fără a ține cont de ce spui tu. Nu că ea le-ar ști pe toate dar la greu, nu a ajutat-o nimeni. Tu faci parte din aceeași categorie – de nimeni. Nu ar trebui să te ia în seamă!
+
+Nu ar fi bine să acționeze nesăbuit atunci când o rănești. Dacă face ce trebuie, o să vezi cum totul se schimbă treptat pentru tine. Pe moment, vei crede că deții controlul. Te va lăsa să te crezi deștept.
+
+Ea va jongla cu toate vulnerabilitățile tale. Le va folosi să se apere. Vrea iubire, respect și un motiv pentru care să lupte. Va acționa lent, discret și când vei deschide ochii, deja te vei fi aflat în miezul regretelor amare.
+
+A pierdut prea multe de-a lungul anilor. Efortul de a se readuna cu sine, nu mai este unul foarte greu pentru ea de acum. Nu prea mai are multe lucruri de pierdut!
+
+Femeia la 30 + ar trebui să poarte ce îi stă bine și ce o face să se simtă ok. Să poarte moda confortului cu propria ființă. Să nu caute să intre în competiție cu cele tinere. Să nu se consoleze cu „prospături” pe care să le țină în loc, fără a le permite să experimenteze și altceva. Să fie spontană, directă, cinstită și modestă!
+
+Ea ar putea să înceapă să se simtă apreciată indiferent de ce e în jurul ei. Să se aprecieze pe sine. Să își asume defectele, calitățile și ridurile care încep să se vadă. Oglinda nu va mai fi generoasă. Totuși, ideile nu vor mai fi așa de fixe. Pretențiile nu vor mai fi așa de mari și nici alegerile într-atât de greșite ca înainte.
+
+Ea ar trebui să știe și cum să se comporte cu perechea sa, mai ales dacă găsește un om bun. Să își respecte partenerul până la cer și înapoi. Să-l răsfețe și să nu înceapă cu „dureri de cap”, atât timp cât el se pune-n „fund și-n cap” să o facă să se simtă iubită.
+
+Să nu aibă figuri de victimă atunci când nu i se face pe plac. Să lase un pic de la ea și să separe fleacurile de situațiile serioase, atunci când se enervează. Nu trebuie să fie cu bărbatul său ca o mămică cicălitoare, ca o gospodină resemnată sau ca o martiră sacrificată pe altarul familiei. Deși n-am urmași, pot constata unele lucruri la alții. Îi văd pe cei cunoscuți că nu mai pot și mă văd pe mine că nu-i pot ajuta prea mult.
+
+Femeia la 30+ ani ar trebui să accepte indrumările celor care-i vor binele și să-i aprecieze. Să fie conștientă de importanța lucrurilor simple și a prezenței celor dragi în viața ei.
+
+Este vârsta la care începi să realizezi niște lucruri. Pentru alții mai în etate, ești considerată încă tânără. Totuși, poate ai pățit ca celor mai tineri cu 10-15 ani decât tine, să le mai scape un „bună ziua” formal, un „dvs. sau un „sărut-mâna” E ciudat dar asta e, îți vezi în continuare de treburi.
+
+Ar mai fi câte ceva de spus dar poate peste 10-20-30 de ani sau până când mi-o fi „mosorelul”. Atunci vor fi și mai multe cuvinte de scris. Poate atunci voi fi învățat deja prea multe și poate nu îmi va mai fi păsat nici de a scrie gânduri pe acest blog.
+    
