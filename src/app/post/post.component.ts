@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import {ActivatedRoute} from '@angular/router';
 import { Meta } from '@angular/platform-browser';  
+import {Title} from "@angular/platform-browser";
 
 @Component({
   selector: 'app-post',
@@ -13,7 +14,8 @@ export class PostComponent implements OnInit {
   // display the post
   slug = ''
   post = {} as Post;
-  constructor(private route: ActivatedRoute, private meta: Meta) { 
+  constructor(private route: ActivatedRoute, private meta: Meta, private titleService: Title) {
+    this.titleService.setTitle('Soulmatters.ro | Un blog personal');
 
   }
   formatDate(date: string): string {
@@ -28,6 +30,7 @@ export class PostComponent implements OnInit {
      this.post = await import(`../../assets/content/data/article/${this.slug}.json`);
     }
     this.addMetaTags(this.post.excerpt, this.post.title, this.post.slug);
+    this.titleService.setTitle(`Soulmatters.ro | ${this.post.title}`);
   }
   addMetaTags(description: string, title: string, slug: string) {
     // add meta tags
