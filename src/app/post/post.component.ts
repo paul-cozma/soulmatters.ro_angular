@@ -17,7 +17,7 @@ export class PostComponent implements OnInit {
   constructor(private route: ActivatedRoute, private meta: Meta, private titleService: Title) {
     this.titleService.setTitle('Soulmatters.ro | Un blog personal');
   }
-  
+
   formatDate(date: string): string {
     const d = new Date(date);
     // return in format month as word  day in number  YYYY to locale
@@ -42,6 +42,9 @@ export class PostComponent implements OnInit {
       { name: 'twitter:title', content: title },
       { name: 'twitter:description', content: description },
       { name: 'twitter:image', content: `assets/content/images/${slug}.jpeg` },
+      // twitter card
+      { name: 'twitter:card', content: 'summary_large_image' },
+      
 
     ]); 
   }
