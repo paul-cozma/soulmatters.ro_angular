@@ -16,8 +16,8 @@ export class PostComponent implements OnInit {
   post = {} as Post;
   constructor(private route: ActivatedRoute, private meta: Meta, private titleService: Title) {
     this.titleService.setTitle('Soulmatters.ro | Un blog personal');
-
   }
+  
   formatDate(date: string): string {
     const d = new Date(date);
     // return in format month as word  day in number  YYYY to locale
