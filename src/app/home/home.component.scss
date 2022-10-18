@@ -1,8 +1,12 @@
 .article-card {
     width: 100%;
+    width: 100%;
     justify-self: center;
     box-sizing: border-box;
     margin-bottom: 10px;
+    background: linear-gradient(50deg, rgba(194, 171, 171, 0) 0%, #e0f7fa96 50%, rgba(0, 212, 255, 0) 300%);
+    box-shadow: 1px 2px 8px #fffde7;
+}
     img{
         height: 200px;
         object-fit: cover;
@@ -37,7 +41,7 @@
 
 
     }
-}
+
 mat-card-header {
     div {
         margin: 0;
